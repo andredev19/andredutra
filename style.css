@@ -434,7 +434,7 @@ section {
 
 .info-1 > h4 > span{
     font-weight: 530;
-    color: rgb(129, 127, 127);
+    color: var(--blue-color);
     font-family:'Open Sans', sans-serif;
 }
 
